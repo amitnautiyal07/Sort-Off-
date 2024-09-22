@@ -1,4 +1,4 @@
-# Sorting Visualizer
+# Sort-Off(A Sorting Visualizer)
 
 A simple web-based sorting visualizer built with HTML, CSS, and JavaScript. This project allows users to visualize common sorting algorithms in action.
 
